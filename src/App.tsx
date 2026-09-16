@@ -209,7 +209,7 @@ function App() {
           <a href="#credentials">Credentials</a>
           <a href="#contact">Contact</a>
         </nav>
-        <a className="button button-small" href="/Stanley-Eke-CV.md" download>
+        <a className="button button-small" href="/Stanley.pdf" download>
           <Download size={16} /> CV
         </a>
       </header>
